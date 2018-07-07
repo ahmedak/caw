@@ -25,8 +25,7 @@ Features to be added:
 
 *****************************************************************************************
 
-SUMMARY:
-
+## SUMMARY
 
 Our product aims to facilitate and liberate physically challenged or aged people, by giving them control of their mobility and of their interaction to the digital universe, as means to stay connected to their loved ones, at an affordable price.
 
@@ -43,7 +42,7 @@ It also provides an alternative to companions/nurses/caretakers tp those who fin
 Our product employs various safeguards against possible accidents and hazards, like hitting a wall or falling down the stairs in unfortunate circumstances. 
 
 
-Beneficiaries:
+## Beneficiaries
 
 Our product although primarily meant for people physical disability which restricts the motion of their body to fingers and aged people, who cannot manually maneuver the wheel chair, could be used in common household by anybody who has a taste for comfortable life.
 
